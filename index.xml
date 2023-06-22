@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Said Jomaa</title>
+    <link>https://SaidJomaa.github.io/Said_Portfolio/</link>
+    <description>Recent content in Data Analytics Portfolio on Said Jomaa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://SaidJomaa.github.io/Said_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About </title>
+      <link>https://SaidJomaa.github.io/Said_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SaidJomaa.github.io/Said_Portfolio/about/</guid>
+      <description>I am a data-driven problem solver with expertise in customer service, logistics, and team leadership. Recently, I completed the highly regarded Data Analytics Immersive course with General Assembly, where I honed my skills in Excel, SQL, Tableau, PowerBI, and Python. Throughout my career, I have excelled in multitasking and collaboration, consistently exceeding customer expectations while navigating complex legal requirements. I have a strong background in logistics and team leadership, enabling me to deliver projects on time and implement effective error management strategies.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://SaidJomaa.github.io/Said_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SaidJomaa.github.io/Said_Portfolio/contact/</guid>
+      <description>Here are my contact details Platform URL linkedIn: https://www.linkedin.com/in/saidjomaa/ Github: https://github.com/SaidJomaa Email : saidjomaa@outlook.com You can also contact me by using this form:
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+    <item>
+      <title>Predicting Likelihood and Severity of Road Accidents In Victoria</title>
+      <link>https://SaidJomaa.github.io/Said_Portfolio/post/predicting-likelihood-and-severity-of-road-accidents-in-victoria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SaidJomaa.github.io/Said_Portfolio/post/predicting-likelihood-and-severity-of-road-accidents-in-victoria/</guid>
+      <description>The study focuses on predicting accident severity and identifying key contributing variables using road accident data from Victoria, Australia (2006-2020).
+Multiple logistic regression is employed to determine influential variables and develop an accident prediction approach.
+Preprocessing techniques, such as outlier handling, addressing missing values, and data transformation, are applied.
+The final model, based on undersampled data, achieves an accuracy prediction power of 76.6% and identifies speed zone, road surface conditions, light conditions, urbanization status, and safety equipment usage as significant factors in severe accidents.</description>
+    </item>
+    
+    <item>
+      <title>Wind Turbine Investment Analysis</title>
+      <link>https://SaidJomaa.github.io/Said_Portfolio/post/wind-turbine-investment-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SaidJomaa.github.io/Said_Portfolio/post/wind-turbine-investment-analysis/</guid>
+      <description>The project involved analyzing primary datasets and external sources to assess the U.S. wind turbine market for a clean energy private equity firm.
+Data cleaning was performed using Python and pandas, including splitting tables, handling null values, and fixing invalid codes.
+The analysis uncovered insights about the global and U.S. wind power market, highlighting growth trends and the concentration of wind turbine plants in the Midwest.
+Factors such as turbine size, location, and operator efficiency were associated with power generation and revenue.</description>
+    </item>
+    
+  </channel>
+</rss>
